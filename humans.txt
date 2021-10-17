@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Matan Chen @mc123
 
 # THANKS
 
