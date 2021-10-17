@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 test diff!
 
 test2
+
+### Copyright
+
+mc71
