@@ -7,8 +7,7 @@ Matan Chen @mc123
 
 # THANKS
 
-    <name>
-
+   All - features
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
